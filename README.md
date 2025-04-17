@@ -1,4 +1,4 @@
-# DSA-13-3
+# Data-Structures-using-Python-13-3
 ## AIM:
 
 To implement a Stack using Python lists and built-in methods append() and pop().
